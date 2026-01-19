@@ -894,6 +894,16 @@ button {
         display: none;
     }
 
+    .spacebytes-branding {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .spacebytes-section {
+        justify-content: center;
+    }
+
     .spacebytes-social {
         justify-content: center;
     }
